@@ -1,4 +1,4 @@
-$(()=>{
+$(function(){
     $(".chat,.regField").hide();
     //Finalprojectserver
     $.ajax({
